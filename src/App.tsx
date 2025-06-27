@@ -372,7 +372,7 @@ function App() {
       <div className="fixed bottom-4 right-4 md:bottom-8 md:right-8 bg-white/90 backdrop-blur-sm p-3 md:p-4 rounded-2xl shadow-lg border border-pink-200/50 hover:scale-105 transition-transform duration-300 z-50">
         <audio
           ref={audioRef}
-          src="/music.mp3"
+          src="/Beaty Heart - Slide To The Side (FIFA 17 Official Soundtrack).mp3"
           loop
           preload="none"
           className="hidden"
